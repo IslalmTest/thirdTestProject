@@ -1,0 +1,1 @@
+First contents of NewFileInProject . hellow from file.
